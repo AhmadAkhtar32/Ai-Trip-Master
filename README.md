@@ -6,10 +6,6 @@
 - **Hotel Recommendations**: Get hotel suggestions that fit your itinerary.
 - **Dynamic Itineraries**: Itineraries are created based on user preferences and budgets.
 
-## Screenshots
-
-
-
 ## Getting Started
 
 To run this project on your machine, follow these steps:
